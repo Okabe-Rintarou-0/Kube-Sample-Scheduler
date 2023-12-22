@@ -6,6 +6,8 @@ An example of Kubernetes custom scheduler.
 
 ## Steps to Run
 
+Environment: Ubuntu 20.04, Kubernetes v1.22.2, Docker 24.0.5, go 1.21.4
+
 + Build the custom scheduler image:
 
     ```shell
